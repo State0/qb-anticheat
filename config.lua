@@ -7,7 +7,7 @@ Config.FlagsForBan = 5
 Config.SuperJumpLength = 20.0
 Config.MaxSpeed = 13
 
-Config.Antiresourcestop = true
+Config.Antiresourcestop = false
 
 -- Set group --
 Config.IgnoredGroups = {
